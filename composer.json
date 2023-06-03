@@ -1,5 +1,5 @@
 {
-    "name": "jaynilsavani/laravel-country-state-city",
+    "name": "elsayed85/laravel-country-state-city",
     "description": "Laravel country, state and city collection.",
     "keywords": [
         "laravel",
@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": "^8.0"
+        "php": "^8.1"
     },
     "autoload": {
         "psr-4": {
